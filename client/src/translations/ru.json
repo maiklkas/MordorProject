@@ -1,0 +1,91 @@
+{
+  "navbar.adminPanel-link": "Панель администратора",
+  "navbar.personalPage-link": "Личный кабинет",
+  "navbar.registerPage-link": "Регистрация",
+  "navbar.loginPage-link": "Войти",
+  "navbar.aboutPage-link": "О нас",
+  "navbar.greeting": "Здравствуйте, ",
+  "navbar.logoutPage-link": "Выйти",
+
+  "cloudTag.cardHeader-cloudTag": "Фильтровать по тегам",
+  "cloudTag.cardSkipBtn-cloudTag": "Сбросить",
+
+  "sortArea.popularBadge-cloudTag": "Популярные",
+  "sortArea.newestBadge-cloudTag": "Новые",
+
+  "storyItem.readMore-btn": "Читать дальше...",
+  "storyItem.comments-badge": "Комментарии: ",
+  "storyItem.added-badge": "Добавлено: ",
+  "storyItem.edit-btn": "Редактировать",
+  "storyItem.delete-btn": "Удалить",
+  "footer.right-text": "© Все права защищены:",
+
+  "login.header-text": "Войти в аккаунт",
+  "login.emailField-text": "Email Адрес",
+  "login.passwordField-text": "Пароль",
+  "login.loginField-btn": "Войти",
+
+  "register.header-text": "Зарегистрироваться",
+  "register.emailField-text": "Email Адрес",
+  "register.passwordField-text": "Пароль",
+  "register.confirmPasswordField-text": "Подтвердить пароль",
+  "register.registerField-btn": "Зарегистрироваться",
+
+  "about.header-text": "Об этом приложении",
+  "about.body-text": "Это приложение full stack React для хранения историй",
+  "about.version-badge": "Версия",
+  "about.author-badge": "Автор",
+  "personalPage.header-text": "Страница пользователя",
+  "personalPage.headerStories-text": "Личные истории",
+
+  "userInfo.header-text": "Персональная информация",
+  "userInfo.location-text": "Местоположение",
+  "userInfo.linksHeader-text": "Соц-сети",
+  "addStoryModal.header-text": "Добавить историю",
+  "addStoryModal.title-label": "Название Истории",
+  "addStoryModal.genre-label": "Жанр",
+  "addStoryModal.genreChoose-label": "Выберете...",
+  "addStoryModal.genreFantastic-label": "Фантастика",
+  "addStoryModal.genreArticle-label": "Статья",
+  "addStoryModal.genreNovella-label": "Новелла",
+  "addStoryModal.genreHorror-label": "Ужасы",
+  "addStoryModal.genreErotic-label": "Эротика",
+  "addStoryModal.genreCrime-label": "Детектив",
+  "addStoryModal.genreFairy-label": "Сказки",
+  "addStoryModal.genreHistorical-label": "Исторический",
+  "addStoryModal.genrePhilosophy-label": "Философия",
+  "addStoryModal.genreScientific-label": "Научный",
+  "addStoryModal.tagsTitle-label": "Теги истории",
+  "addStoryModal.imageTitle-text": "Выберите изображение заголовка для своей истории",
+  "addStoryModal.imageTitle-btn": "Удалить",
+  "addStoryModal.closeModal-btn": "Закрыть",
+  "addStoryModal.saveModal-btn": "Сохранить изменения",
+  "addStoryModal.hereFile-btn": "Тут",
+  "addStoryModal.toSelect-text": "выбрать файлы.",
+  "addStoryModal.notDrag-text": "Неудобно перетаскивать? Нажмите",
+
+  "post.editPost-btn": "Редактирование",
+  "post.deletePost-btn": "Удалить",
+  "post.contentHeader-text": "Содержание",
+  "post.editChapter-btn": "Редактировать главу",
+  "post.deleteChapter-btn": "Удалить главу",
+  "post.likes-btn": "Нравится: ",
+  "post.unlikes-btn": "Не нравится",
+
+  "Comments.sendComments-btn": "Отправить",
+
+  "content.addChapter-btn": "Добавить главу",
+  "Content.likes-badge": "Нравится: ",
+
+  "addChapterModal.title-label": "Название главы",
+
+  "editStoryModal.header-text": "Редактировать историю",
+
+  "editChapterModal.header-text": "Редактировать",
+  "editChapterModal.title-text": "Заголовок главы",
+
+  "adminPanel.name-tableheader": "Имя",
+  "adminPanel.status-tableheader": "Статус",
+  "adminPanel.admin-tableheader": "Администратор",
+  "adminPanel.edit-tableheader": "Редактировать"
+}

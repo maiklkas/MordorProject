@@ -1,0 +1,91 @@
+{
+  "navbar.adminPanel-link": "Administrator panel",
+  "navbar.personalPage-link": "Personal page",
+  "navbar.registerPage-link": "Registration",
+  "navbar.loginPage-link": "Login",
+  "navbar.aboutPage-link": "About",
+  "navbar.greeting": "Hello, ",
+  "navbar.logoutPage-link": "Logout",
+
+  "cloudTag.cardHeader-cloudTag": "Filter by Tags",
+  "cloudTag.cardSkipBtn-cloudTag": "Skip",
+
+  "sortArea.popularBadge-cloudTag": "Popular",
+  "sortArea.newestBadge-cloudTag": "Newest",
+
+  "storyItem.readMore-btn": "Read more...",
+  "storyItem.comments-badge": "Comments: ",
+  "storyItem.added-badge": "Added: ",
+  "storyItem.edit-btn": "Edit",
+  "storyItem.delete-btn": "Delete",
+  "footer.right-text": "© All right Reversed:",
+
+  "login.header-text": "Account Login",
+  "login.emailField-text": "Email Address",
+  "login.passwordField-text": "Password",
+  "login.loginField-btn": "Login",
+
+  "register.header-text": "Register",
+  "register.emailField-text": "Email Address",
+  "register.passwordField-text": "Password",
+  "register.confirmPasswordField-text": "Confirm password",
+  "register.registerField-btn": "Register",
+
+  "about.header-text": "About this app",
+  "about.body-text": "This is a full stack React app for keeping stories",
+  "about.version-badge": "Version",
+  "about.author-badge": "Author",
+  "personalPage.header-text": "User Page",
+  "personalPage.headerStories-text": "Personal stories",
+
+  "userInfo.header-text": "Personal info",
+  "userInfo.location-text": "Location",
+  "userInfo.linksHeader-text": "Social Links",
+  "addStoryModal.header-text": "Add story",
+  "addStoryModal.title-label": "Story's title",
+  "addStoryModal.genre-label": "Genre",
+  "addStoryModal.genreChoose-label": "Choose...",
+  "addStoryModal.genreFantastic-label": "Fantastic",
+  "addStoryModal.genreArticle-label": "Article",
+  "addStoryModal.genreNovella-label": "Novella",
+  "addStoryModal.genreHorror-label": "Horror",
+  "addStoryModal.genreErotic-label": "Erotic",
+  "addStoryModal.genreCrime-label": "Crime",
+  "addStoryModal.genreFairy-label": "Fairy",
+  "addStoryModal.genreHistorical-label": "Historical",
+  "addStoryModal.genrePhilosophy-label": "Philosophy",
+  "addStoryModal.genreScientific-label": "Scientific",
+  "addStoryModal.tagsTitle-label": "Storys tags",
+  "addStoryModal.imageTitle-text": "Choose header image for your story",
+  "addStoryModal.imageTitle-btn": "Del",
+  "addStoryModal.closeModal-btn": "Close",
+  "addStoryModal.saveModal-btn": "Save changes",
+  "addStoryModal.hereFile-btn": "Here",
+  "addStoryModal.toSelect-text": "to select files.",
+  "addStoryModal.notDrag-text": "Dragging not convenient? Click",
+
+  "post.editPost-btn": "Edit",
+  "post.deletePost-btn": "Delete",
+  "post.contentHeader-text": "Content",
+  "post.editChapter-btn": "Edit Chapter",
+  "post.deleteChapter-btn": "Delete Chapter",
+  "post.likes-btn": "Likes: ",
+  "post.unlikes-btn": "Unlike",
+
+  "Comments.sendComments-btn": "Send",
+
+  "content.addChapter-btn": "Add chapter",
+  "Content.likes-badge": "Likes: ",
+
+  "addChapterModal.title-label": "Chapter title",
+
+  "editChapterModal.header-text": "Edit chapter",
+  "editChapterModal.title-text": "Chapters title",
+
+  "editStoryModal.header-text": "Edit story",
+
+  "adminPanel.name-tableheader": "Name",
+  "adminPanel.status-tableheader": "Status",
+  "adminPanel.admin-tableheader": "Administrator",
+  "adminPanel.edit-tableheader": "Edit"
+}

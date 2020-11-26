@@ -1,0 +1,9 @@
+{
+  "mongoURI": "mongodb+srv://misha:2281337@cluster0.glcbp.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "abbandoned_cat",
+  "mongoGridURI": "mongodb+srv://misha:2281337@cluster0.glcbp.mongodb.net/app?retryWrites=true&w=majority",
+  "smtpServer": {
+    "account": "misha.admkas@gmail.com",
+    "password": "2281337Mi"
+  }
+}
